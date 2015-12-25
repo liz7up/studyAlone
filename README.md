@@ -1,0 +1,2 @@
+# studyAlone
+personal.zone
